@@ -68,7 +68,7 @@ public class CourseServiceImpl implements CourseService {
     }
 
     @Override
-    public void delete(Long id) {
+    public void delete(String id) {
         courseList.remove(id);
     }
 }

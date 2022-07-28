@@ -10,5 +10,5 @@ public interface CourseService {
 
     void save(Course course);
 
-    void delete(Long id);
+    void delete(String id);
 }

@@ -30,7 +30,7 @@ public class CourseController
     }
 
     @PostMapping("api/courses/{id}")
-    public void delete(@PathVariable("id") long id) {
+    public void delete(@PathVariable("id") String id) {
         courseServiceImpl.delete(id);
     }
 }
