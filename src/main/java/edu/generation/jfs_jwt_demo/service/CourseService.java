@@ -8,7 +8,9 @@ public interface CourseService {
 
     List<Course> all();
 
-    void save(Course course);
+    Course save(Course course);
 
-    void delete(String id);
+    void delete(String courseId);
+
+    boolean courseIdExists(String courseId);
 }

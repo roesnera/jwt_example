@@ -1,0 +1,13 @@
+${AnsiColor.BLUE}
+       GGGGG    EEEEEEE  N     N  EEEEEEEE  RRRRRRR     AAA    TTTTTTT  IIIIIII   OOOOO   N     M
+     G     G   E        NN    N  E         R      R   A   A      T        I     O     o  NN    N
+    G         E        N N   N  E         R      R  A     A     T        I     O     O  N N   N
+   G         EEEEE    N  N  N  EEEEE     RRRRRRR   AAAAAAA     T        I     O     O  N  N  N
+  G    GGG  E        N   N N  E         R    R    A     A     T        I     O     O  N   N N
+ G     G   E        N    NN  E         R     R   A     A     T        I     O     O  N    NN
+ GGGGG    EEEEEEE  N     N  EEEEEEEE  R      R  A     A     T     IIIIIII   OOOOO   N     N
+ _________________________________________________________________________________________
+                                          ${AnsiColor.RED}u.${AnsiColor.WHITE}s.${AnsiColor.BLUE}a.${AnsiColor.DEFAULT}
+
+${AnsiColor.GREEN} :: Spring Boot${spring-boot.formatted-version} ::
+${AnsiColor.DEFAULT}
